@@ -2,14 +2,14 @@
 import os,sys,time,random,json,requests
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
 logo="""
-\t ######  #######          
-  #     # #     # #   #    
-  #     # #     #  # #     
-  ######  #     #   #      
-  #     # #     #   #      
-  #     # #     #   #      
-  ######  #######   #      
-                          
+
+\t██████   ██████  ██    ██     
+\t██   ██ ██    ██  ██  ██      
+\t██████  ██    ██   ████       
+\t██   ██ ██    ██    ██        
+\t██████   ██████     ██        
+                              
+                              
 --------------------------------------------------
   Author   : Asmad Ali
   Github   : https://github.com/Asmadali1213
